@@ -6,6 +6,6 @@ Our cutting-edge technology allows palm print and liveness detection on any smar
 
 ## 🔗 Learn more
 
-- 🌍 Website: [veros.xyz](https://veros.xyz)
-- 🧾 Docs: [docs.veros.xyz](https://docs.veros.xyz)
-- 📬 Contact: hello@veros.xyz
+- 🌍 Website: [veros.org](https://veros.org)
+- 🧾 Docs: [docs.veros.org](https://docs.veros.org)
+- 📬 Contact: hello@veros.org
