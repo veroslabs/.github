@@ -1,4 +1,4 @@
-# 👋 Welcome to Veros Labs
+# 👋 Welcome to Very AI
 
 We’re building a new identity layer for the internet — one that’s private, secure, and human-centric.
 
@@ -6,6 +6,6 @@ Our cutting-edge technology allows palm print and liveness detection on any smar
 
 ## 🔗 Learn more
 
-- 🌍 Website: [veros.org](https://veros.org)
-- 🧾 Docs: [docs.veros.org](https://docs.veros.org)
-- 📬 Contact: hello@veros.org
+- 🌍 Website: [very.org](https://very.org)
+- 🧾 Docs: [docs.very.org](https://docs.very.org)
+- 📬 Contact: hello@very.org
